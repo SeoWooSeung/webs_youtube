@@ -3,7 +3,9 @@ import React from "react";
 const Footer = () => {
   return (
     <footer id="footer" role="contentinfo">
-      Footer
+      <a href="https://github.com/" rel="nopenner noreferrer">
+        https://github.com/
+      </a>
     </footer>
   );
 };
