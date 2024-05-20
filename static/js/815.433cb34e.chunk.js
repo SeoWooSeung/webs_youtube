@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_youtube=self.webpackChunkweb_youtube||[]).push([[815],{8815:(e,t,u)=>{u.r(t),u.d(t,{default:()=>c});u(5043);var s=u(7682),b=u(579);const c=()=>(0,b.jsx)(s.A,{title:"\uc6f9\ub514\uc790\uc778 \uae30\ub2a5\uc0ac",description:"\uc6f9\ub514\uc790\uc778 \uae30\ub2a5\uc0ac \ud29c\ud1a0\ub9ac\uc5bc \uac15\uc758\uc785\ub2c8\ub2e4.",children:"Webd"})}}]);
+//# sourceMappingURL=815.433cb34e.chunk.js.map
