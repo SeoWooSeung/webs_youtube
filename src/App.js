@@ -20,7 +20,10 @@ const App = () => {
     <BrowserRouter>
       <Suspense fallback={<Main />}>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route
+            path="seowooseung.github.io/webs_youtube/"
+            element={<Home />}
+          />
           <Route path="/today" element={<Today />} />
           <Route path="/developer" element={<Developer />} />
           <Route path="/webd" element={<Webd />} />
